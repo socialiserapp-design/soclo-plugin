@@ -1,0 +1,17 @@
+{
+  "name": "soclo",
+  "description": "Soclo: a marketing team inside your AI.",
+  "owner": {
+    "name": "Soclo",
+    "url": "https://soclo.app"
+  },
+  "plugins": [
+    {
+      "name": "soclo",
+      "source": "./plugins/soclo",
+      "description": "Make on-brand pictures, videos and posts, publish to your social accounts and run ads from chat, with a price shown before anything is spent.",
+      "category": "marketing",
+      "tags": ["marketing", "social-media", "video", "ads", "small-business"]
+    }
+  ]
+}
