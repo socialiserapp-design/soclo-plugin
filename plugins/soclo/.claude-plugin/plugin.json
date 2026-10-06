@@ -18,5 +18,8 @@
     "content"
   ],
   "icon": "soclo-icon.png",
-  "privacyPolicyUrl": "https://soclo.app/privacy"
+  "privacyPolicyUrl": "https://soclo.app/privacy",
+  "documentationUrl": "https://soclo.app/mcp",
+  "supportUrl": "https://soclo.app/contact",
+  "termsOfServiceUrl": "https://soclo.app/terms"
 }
