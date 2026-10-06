@@ -9,5 +9,14 @@
   "homepage": "https://soclo.app/mcp",
   "repository": "https://github.com/socialiserapp-design/soclo-plugin",
   "license": "MIT",
-  "keywords": ["marketing", "social-media", "video", "ads", "small-business", "content"]
+  "keywords": [
+    "marketing",
+    "social-media",
+    "video",
+    "ads",
+    "small-business",
+    "content"
+  ],
+  "icon": "soclo-icon.png",
+  "privacyPolicyUrl": "https://soclo.app/privacy"
 }
