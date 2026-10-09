@@ -31,4 +31,4 @@ When the item is ready, show the Library link. Publish or schedule posts only to
 
 ## Ads
 
-New campaigns start paused. Show the audience, creative and daily budget, and switch a campaign on only after the customer confirms that budget.
+Before any campaign goes live, show the audience, creative, daily budget, currency and targeting, and launch it only after the customer confirms them.

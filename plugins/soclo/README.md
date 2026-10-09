@@ -10,7 +10,7 @@ Soclo is a marketing app for small businesses and creators. This plugin connects
 
 - **Uses AI to make pictures, video and audio.** Soclo generates marketing images, short videos, voiceovers and music for your brand. Every paid make shows you the exact credit price first and starts only after you say yes.
 - **Publishes to your connected social accounts** (for example Instagram, Facebook, TikTok, LinkedIn, YouTube, X, Pinterest, Threads, Bluesky) when you ask, and reports each post's status.
-- **Runs ad campaigns** on ad accounts you have connected. New campaigns start paused; nothing spends until you confirm the budget.
+- **Runs ad campaigns** on ad accounts you have connected. Nothing spends until you confirm the budget, currency and targeting; a confirmed campaign then goes live.
 - **Manages your Brand Kit, Library, Autopilot schedule, inbox replies, pages and analytics** inside your own Soclo account.
 
 ## Install
