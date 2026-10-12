@@ -22,7 +22,7 @@ In Claude Code:
 /plugin install soclo@soclo
 ```
 
-Then sign in to Soclo when asked (or run `/mcp` and choose Soclo). On claude.ai you can also add the connector directly: Settings, Connectors, Add custom connector, `https://mcp.soclo.app/mcp`.
+Then sign in to Soclo when asked (or run `/mcp` and choose Soclo). On claude.ai you can also add the connector directly: Settings, Connectors, Add custom connector, `https://mcp.soclo.app/mcp/auth`.
 
 You need a Soclo account. Each person signs in through Soclo's own sign-in page with OAuth and chooses which permissions to grant; Claude never sees your password.
 
@@ -39,7 +39,7 @@ Soclo uses credits from your Soclo wallet. Planning, storyboards and quotes are 
 
 ## What the plugin sends and stores
 
-This plugin contains a manifest, one skill and a connection to one remote server, `https://mcp.soclo.app/mcp`, run by Soclo. It runs no local code. Requests you make through it are sent to that server and handled under Soclo's privacy policy. Your content stays in your Soclo account until you delete it.
+This plugin contains a manifest, one skill and a connection to one remote server, `https://mcp.soclo.app/mcp/auth`, run by Soclo. It runs no local code. Requests you make through it are sent to that server and handled under Soclo's privacy policy. Your content stays in your Soclo account until you delete it.
 
 ## Help
 
