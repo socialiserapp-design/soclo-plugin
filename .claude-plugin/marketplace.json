@@ -1,0 +1,24 @@
+{
+  "name": "soclo",
+  "description": "Soclo: a marketing team inside your AI.",
+  "owner": {
+    "name": "Soclo",
+    "url": "https://soclo.app"
+  },
+  "plugins": [
+    {
+      "name": "soclo",
+      "version": "1.0.5",
+      "source": "./plugins/soclo",
+      "description": "Plan, make and publish on-brand marketing with your Soclo Brand Kit and library.",
+      "category": "marketing",
+      "tags": [
+        "marketing",
+        "social-media",
+        "video",
+        "ads",
+        "small-business"
+      ]
+    }
+  ]
+}

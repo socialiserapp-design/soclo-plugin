@@ -1,0 +1,20 @@
+{
+  "name": "soclo",
+  "version": "1.0.5",
+  "description": "Plan, make and publish on-brand marketing with your Soclo Brand Kit and library.",
+  "author": {
+    "name": "Soclo",
+    "url": "https://soclo.app"
+  },
+  "homepage": "https://soclo.app/mcp",
+  "repository": "https://github.com/socialiserapp-design/soclo-plugin",
+  "license": "MIT",
+  "logo": "soclo-icon.png",
+  "keywords": [
+    "marketing",
+    "social-media",
+    "video",
+    "ads",
+    "small-business"
+  ]
+}
