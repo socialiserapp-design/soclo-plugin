@@ -1,0 +1,22 @@
+{
+  "name": "soclo",
+  "version": "1.0.5",
+  "description": "Plan, make and publish on-brand marketing with your Soclo Brand Kit and library.",
+  "author": {
+    "name": "Soclo",
+    "email": "hello@soclo.app",
+    "url": "https://soclo.app"
+  },
+  "homepage": "https://soclo.app/mcp",
+  "license": "LicenseRef-Proprietary",
+  "keywords": [
+    "marketing",
+    "images",
+    "video",
+    "audio",
+    "advertising",
+    "soclo"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
